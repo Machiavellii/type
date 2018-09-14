@@ -1,0 +1,15 @@
+{
+  "name": "typeandspeech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Machiavelli",
+  "license": "ISC",
+  "homepage": "https:/Machiavellii.github.io/type",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
